@@ -1,0 +1,68 @@
+Fantasy Game Engine
+
+This flash engine allows users to pick their fantasy team then manage and watch how there team performs week to week in the real games. The engine is sport and language independent, Football, F1, Golf and Cycling have been run in languages such as German, Spanish and Arabic with users numbing over half a million on some platforms. The complex engine has many features including undo, team of the week, performance graphs, auto placement, advertising, tracking and auto formation correction.
+
+Hi-5
+
+A website built to engage with fans of the popular kids group Hi-5 and their parents. The site need to be both rich and fun while also connecting to a CMS for the latest updates and information the parents.
+
+
+
+
+About
+
+Hi, I’m a senior interactive developer who is looking for fun, inspiring work to bring my skills to.
+
+Coming from a strong Flash background, I am interested in working across a wide range of interactive development. Working in the industry for over 8 years I have experience building large applications to small animated micro sites. I am passionate about what I do and I like to have fun doing it.
+
+Companies I have completed work for
+
+Skills
+
+Flash development, with AS3, AS2, OOP, MVC, Flex and Air
+Front-end Interactive development, with HTML5, CSS3, AJAX and JQuery
+Design and Creative Experience with Flash, Photoshop and Illustrator
+Profession development with Subversion, Eclipse and documentation
+Audio and video editing experience. Final Cut Pro, Premiere and Soundbooth.
+Strong understanding of usability and accessibility
+Knowledge of backend development with Java, PHP and .NET
+Experience with client liaison and pitches
+Learning
+
+iOS Development
+Android Development
+Career Overview
+
+Freelance Interactive Developer
+
+June 2007 – Current
+After 3 years at Hothouse I was after a bit more variety in my work so I became a freelancer. In the past 3 years I have been lucky to work for some amazing companies as Tiger Spike, Tequila, Clever TV, Digital Garden and in great locations such as Canada, Slovenia, England and Japan.
+
+Fusefarm Interactive
+
+June 2007 – January 2008
+Interactive Developer
+
+HotHouse Interactive
+
+June 2005 – June 2007
+Senior Flash Developer
+June 2004 – June 2005
+Front-end Developer. HTML,CSS Javascript.
+
+HotHouse Utilities Library and Flash Guidelines
+
+I led the development of the HotHouse Utilities Library and Flash Guidelines.
+The library consists of a large range of components built by HotHouse that complete common tasks. These components range from simple buttons to complex video players. These utilities save time by the reuse of code giving developers more time to work on the creative “feeling” of the site.
+The Flash Development Guidelines outlines the development of Flash projects.
+The documents were important because it made everyone aware of how HotHouse build their sites allowing many people to work on one project with ease. Flash files were utilised for their ease of use, simplicity to update, and clean appearance.
+
+HotHouse Company Culture
+
+I organised the first HotHouse Ski trip which has now become an annual tradition and helped start and captained the HotHouse touch footy team, which has played in many company competitions.
+
+Go Multimedia
+
+January 2002-2006
+Partner
+Multimedia Designer/Developer
